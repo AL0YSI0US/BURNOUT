@@ -15,8 +15,8 @@ Because the topic is such a dense subject this resource will guide dialogue and 
 Table of Contents //
 
 1. [Aloysious](aloysious.md) 
-2. [The 3 B's]()
-3. [What is Burnout?](burnout.md)
+2. [The 3 B's](threeBs.md)
+3. [What is Burnout?](whatIsBurnout.md)
 4.
 5.
 6.
