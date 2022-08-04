@@ -6,7 +6,7 @@
 
 These support our wants, needs and desires. 
 
-They are the keys to our awareness unlocking the doors to our self sovereignty and autonomy. 
+They are the keys to our awareness, unlocking the doors to our self sovereignty and autonomy. 
 
 We must adopt consent culture within ourselves, this behavior will scale when we relate with one another.
 
