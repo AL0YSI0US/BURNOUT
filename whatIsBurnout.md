@@ -25,3 +25,4 @@ It's feeling emotionally drained, overwhelmed, and unable to meet daily demands 
 - Shame dialogue
 
 
+[<== Home](README.md) 🏠 [Differenciating Stress from Burnout ==>](stress.md)
