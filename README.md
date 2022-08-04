@@ -21,7 +21,7 @@ Because the topic is such a dense subject this resource will guide dialogue and 
 3. [Universal Human Needs/Values](https://classroommanagementcem.weebly.com/uploads/4/3/2/5/4325801/nvc_language_of_life_chapters_1-5.pdf)
 4. [What is Burnout?](whatIsBurnout.md)
 5. [Differenciating Stress from Burnout](stress.md)
-6. [5 Stages of Burnout](5stages.md)
+6. [5 Stages of Burnout](fivestages.md)
 7. [Catalysts for Burnout](catalysts.md)
 8. [Images for self reflection](reflections.md)
 9. [❤️ Credits ❤️](credits.md)
