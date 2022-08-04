@@ -17,7 +17,7 @@ Table of Contents //
 1. [Aloysious](aloysious.md) 
 2. [The 3 B's](threeBs.md)
 3. [What is Burnout?](whatIsBurnout.md)
-4.
+4. [Differenciating Stress from Burnout](stress.md)
 5.
 6.
 7.
