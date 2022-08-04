@@ -66,7 +66,13 @@ Trauma manifests from recieving stimuli, be it negative of positive.
 
 ## Boundaries 
 
+### Dig Deeper
+
 📚 [Unfuck Your Boundaries:](https://microcosmpublishing.com/catalog/books/8188) Build Better Relationships Through Consent, Communication, and Expressing Your Needs // <br>
 📚 [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing/) // A Zine by Leah jo and Fizz Perkal
 
-[What is Burnout? ==>](whatIsBurnout.md)
+<br>
+<br>
+
+###  [<<== Who is Aloysious](aloysious.md) || [Universal Human Needs/Values ==>](needs.md)
+
