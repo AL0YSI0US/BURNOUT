@@ -1,6 +1,9 @@
 # Helpful images for self reflection / emotional processing
 
-<br>
+
+  <br>
+  <br>
+
 
 <div align="center">
   
@@ -14,6 +17,8 @@ Which River are you today?
 ![image](https://user-images.githubusercontent.com/75811965/182861205-d7d806ae-9393-4f10-93ab-4e6355f722b1.png)
   
   <br>
+  <br>
+
   
   
 ### Betty Martin's [Wheel of Consent [🎥]](https://youtu.be/7x2jAm3HxHM)
@@ -22,6 +27,7 @@ Which River are you today?
   <img src="https://user-images.githubusercontent.com/75811965/182882144-4a2e36d5-4445-4175-a77d-093bdc663c62.png"  width=75% height=75%>
 
   <br>
+  <br>
 
    ### [How to Recognize What You Need](https://microcosmpublishing.com/catalog/posters/11393) by Joe Biel  
 Having trouble figuring out what you need? Self-care is not a binary. <br>
@@ -29,8 +35,11 @@ Having trouble figuring out what you need? Self-care is not a binary. <br>
   
   ![](https://microcosmpublishing.com/previews/selfcare_blowup.jpg)
   
+ 
   <br>
-  
+  <br>
+
+    
   ### [How to Make a Decision](https://microcosmpublishing.com/catalog/posters/8291) (vertical) by Joe Biel  
 Life is full of major decisions and often we get lost and mired in the slog of figuring out what's best for us, <br>
   or worse, comparing ourselves to others.<br>
@@ -46,7 +55,10 @@ This poster is part of the continuing effort at Microcosm to create a lasting le
   
   ![](https://microcosmpublishing.com/previews/howtomakeadecisionhorizontalposter_blowup.jpg)
   
+  
   <br>
+  <br>
+
   
   ### [Scarcity vs Abundance Thinking](https://microcosmpublishing.com/catalog/posters/11392) by Joe Biel  
 Put things into perspective and make sure you're on the right track. <br>
@@ -54,6 +66,8 @@ Put things into perspective and make sure you're on the right track. <br>
   
   ![](https://microcosmpublishing.com/previews/economics_lg.jpg)
   
+  
+  <br>
   <br>
  
   
@@ -61,8 +75,8 @@ Put things into perspective and make sure you're on the right track. <br>
 Recently, an artist friend celebrated a modicum of success after five years of hard work. Many people cheered and celebrated but one person felt left out and lashed out in a jealous rage. Why weren't they celebrating a big success? They worked hard too. It's an easy trap to fall into and we've all done it.
 
 Fortunately, the reality is that there is **enough pie to go around** if we don't react like it's a scarcity economy. Our feelings dictate not only how other people interpret our actions but the rewards and response that we receive. There is enough to go around if we realize it and act like it. Put this poster on your wall and start to thrive.
-  
-  ![](htps://microcosmpublishing.com/previews/howtothrivestarveposter_lg.jpg)
+ 
+![](htps://microcosmpublishing.com/previews/howtothrivestarveposter_lg.jpg)
   
 ### [Stagnating vs Effective Leadership](https://microcosmpublishing.com/catalog/posters/11394) by Joe Biel  
 Figure out which kind of leader you are (and then, if needed, become the one you want to be)!
