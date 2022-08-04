@@ -72,7 +72,8 @@ Trauma manifests from recieving stimuli, be it negative of positive.
 📚 [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing/) // A Zine by Leah jo and Fizz Perkal
 
 <br>
-<br>
 
-###  [<<== Who is Aloysious](aloysious.md) || [Universal Human Needs/Values ==>](needs.md)
+<div align=center>
+
+[<<== Who is Aloysious](aloysious.md) || [Universal Human Needs/Values ==>](needs.md)
 
