@@ -36,18 +36,20 @@ subcategories.
   
 |**Love/Caring**|**Empathy/Understanding**|**Community/Belonging**| 
 |:-:|:-:|:-:| 
-|affection/warmth|   |   |  
-|beauty|   |   |  
-|closeness/touch|   |   |  
-|companionship|   |   |  
-|   |   |   | 
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
+|affection/warmth|awareness/clarity|cooperation|  
+|beauty|acceptance|fellowship|  
+|closeness/touch|acknowledgment|generosity|  
+|companionship|communication|inclusion|  
+|compassion|consideration|interdependence| 
+|kindness|hearing (hear/be heard)|harmony/peace|  
+|intimacy|knowing (know/be known)|hospitality/welcoming|  
+|mattering|presence/listening|mutuality|  
+|importance|respect/equality|reciprocity|  
+|nurturing|receptivity/openness|partnership|  
+|sexual connection|recognition|relationship|  
+|respect|seeing (see/be seen)|support/solidarity|  
+|honoring|slf-esteem|trust/dependability|  
+|valuing/prizing|sensitivity|transparency/openness|  
   
   <h2> SELF-EXPRESSION </h2>
   
