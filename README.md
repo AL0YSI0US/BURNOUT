@@ -16,7 +16,7 @@ Table of Contents //
 
 1. [Aloysious](aloysious.md) 
 2. [The 3 B's](threeBs.md)
-3. Universal Human Needs/Values
+3. [Universal Human Needs/Values](https://classroommanagementcem.weebly.com/uploads/4/3/2/5/4325801/nvc_language_of_life_chapters_1-5.pdf)
 4. [What is Burnout?](whatIsBurnout.md)
 5. [Differenciating Stress from Burnout](stress.md)
 6.
