@@ -19,9 +19,9 @@ Table of Contents //
 3. [Universal Human Needs/Values](https://classroommanagementcem.weebly.com/uploads/4/3/2/5/4325801/nvc_language_of_life_chapters_1-5.pdf)
 4. [What is Burnout?](whatIsBurnout.md)
 5. [Differenciating Stress from Burnout](stress.md)
-6.
-7.
-
+6. [5 Stages of Burnout](5stages.md)
+7. [Images for self reflection]
+8. [❤️ Credits ❤️]()
 
 
 
