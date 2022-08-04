@@ -6,7 +6,7 @@
 
   Mad Props to my dear friend and mentor [Morgan Vanderpool](https://twitter.com/MorganxMovement), I have a trmendous amount of gratitude for the ways we are able to navigate consent and hold eachother accountable in life, community and emotionally. Co-regulating with them is my jimmy-jam! [I have also dubbed them my translator, this witch does things with words I merely dream of, a genuine bridge buillder!]
   
-  🎥 [Who can hold you in your survivorship?](https://www.youtube.com/watch?v=YQJsR7NLR7k&t=115s)
+  🎥 [Who can hold you in your survivorship?](https://www.youtube.com/watch?v=YQJsR7NLR7k&t=115s) <br>
   🌐 [Website](https://www.morganvanderpool.com/)
   
   Props to [@Bianca](https://twitter.com/biancagadelha) & [AnnAnna](https://twitter.com/Annomalia96) for grinding in the web3 space bringing forward relevant content...and for colaborating with me. 
