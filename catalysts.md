@@ -27,4 +27,6 @@
 - Commiting to events or social engagements we dont actually want to attend
 - Putting others first 
  
+ <div align=center>
+ 
  [<<== 5 Stages of Burnout](fivestages.md) ||  [Images for self reflection ==>](reflections.md)
