@@ -18,7 +18,7 @@ Table of Contents //
 2. [The 3 B's](threeBs.md)
 3. Universal Human Needs/Values
 4. [What is Burnout?](whatIsBurnout.md)
-5. [Differenciating Stress from Burnout](stress.md).
+5. [Differenciating Stress from Burnout](stress.md)
 6.
 7.
 
