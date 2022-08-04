@@ -6,7 +6,8 @@
   
 ### **[How do you feel today?](https://microcosmpublishing.com/catalog/posters/9507) (With River the Cat) poster** by Faith G. Harper, and River Katz  
 
-When you need to describe just how you feel Meet River, the genderqueer kitty with all the feelings. Besides juggling the ups and downs of mental health, they enjoy books, tea, bicycles, and dismantling the patriarchy.
+When you need to describe just how you feel Meet River, the genderqueer kitty with all the feelings.<br> 
+  Besides juggling the ups and downs of mental health, they enjoy books, tea, bicycles, and dismantling the patriarchy.
 
 Which River are you today?
 
@@ -14,7 +15,15 @@ Which River are you today?
   
   <br>
   
-### [How to Recognize What You Need](https://microcosmpublishing.com/catalog/posters/11393) by Joe Biel  
+  
+### Betty Martin's [Wheel of Consent [🎥]](https://youtu.be/7x2jAm3HxHM)
+  The Wheel of Consent is a model of consent based on, but not requiring, exchanges of touch. The Wheel notes the distinction between the ‘doing’ aspect of the touch dynamic — who is doing — and the ‘gift’ aspect — who it is for.
+  
+  <img src="https://user-images.githubusercontent.com/75811965/182882144-4a2e36d5-4445-4175-a77d-093bdc663c62.png"  width=75% height=75%>
+
+  <br>
+
+   ### [How to Recognize What You Need](https://microcosmpublishing.com/catalog/posters/11393) by Joe Biel  
 Having trouble figuring out what you need? Self-care is not a binary. <br>
   Often—especially if you aren't practiced in flexing those muscles—it's a matter of figuring out what you need right now.
   
@@ -39,9 +48,24 @@ This poster is part of the continuing effort at Microcosm to create a lasting le
   
   <br>
   
-  ### []()
+  ### [Scarcity vs Abundance Thinking](https://microcosmpublishing.com/catalog/posters/11392) by Joe Biel  
+Put things into perspective and make sure you're on the right track. <br>
+  Life's too short not to be the best person you can be!  
   
+  ![](https://microcosmpublishing.com/previews/economics_lg.jpg)
   
-  ![](https://miro.com/app/board/uXjVO2ivWrw=/?moveToWidget=3458764525076324049&cot=14)
+  <br>
+ 
+  
+  ### [How to Thrive / How to Starve](https://microcosmpublishing.com/catalog/posters/8292) by Joe Biel  
+Recently, an artist friend celebrated a modicum of success after five years of hard work. Many people cheered and celebrated but one person felt left out and lashed out in a jealous rage. Why weren't they celebrating a big success? They worked hard too. It's an easy trap to fall into and we've all done it.
+
+Fortunately, the reality is that there is **enough pie to go around** if we don't react like it's a scarcity economy. Our feelings dictate not only how other people interpret our actions but the rewards and response that we receive. There is enough to go around if we realize it and act like it. Put this poster on your wall and start to thrive.
+  
+  ![](htps://microcosmpublishing.com/previews/howtothrivestarveposter_lg.jpg)
+  
+### [Stagnating vs Effective Leadership](https://microcosmpublishing.com/catalog/posters/11394) by Joe Biel  
+Figure out which kind of leader you are (and then, if needed, become the one you want to be)!
+  ![](https://microcosmpublishing.com/previews/leadership_lg.jpg)
   
 </div>
