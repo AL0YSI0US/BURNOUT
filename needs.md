@@ -1,3 +1,5 @@
+[<== Home](README.md) 🏠
+
 ## [Universal Human Needs/Values](https://www.mediateyourlife.com/wp-content/uploads/2015/10/Needs.pdf)
 > The needs below are grouped into categories of core needs, 3 meta-categories and 9
 subcategories.
