@@ -8,4 +8,6 @@
 4. Burnout
 5. Habitual Burnout
 
-### [<<== Differenciating Stress from Burnout](stress.md) ||  [Catalysts for Burnout ==>](catalysts.md)
+<div align=center>
+  
+[<<== Differenciating Stress from Burnout](stress.md) ||  [Catalysts for Burnout ==>](catalysts.md)
