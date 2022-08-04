@@ -9,7 +9,7 @@
 </div>
 
 
-> This repository was created to support the facilitation of a discussion around 'Burnout'...
+> This repository was created to support the facilitation of a discussion around 'Burnout'...<br>
 Because the topic is such a dense subject this resource will guide dialogue and be provided to atendees to allow for deeper reflection. 
 
 Table of Contents //
