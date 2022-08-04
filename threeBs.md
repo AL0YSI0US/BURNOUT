@@ -13,8 +13,14 @@ We must adopt consent culture within ourselves, this behavior will scale when we
 > "Love knows Boundaries"
 
 
+<br>
+<br>
 
 ## Balance
+
+
+<br>
+<br>
 
 ## Breaks 
 - Take intentional breaks between activities, in relationships, from work etc. We can ruin the things we either enjoy or must do by over saturating ourselves in them.
@@ -22,6 +28,10 @@ We must adopt consent culture within ourselves, this behavior will scale when we
   - We need time between activities to digest / process / integrate information and to down regulate our nervous systems after recieving ample amounts of stimuli.  
 > If you must fill out your day, schedule in time to relax / get grounded and to focus on other parts of your soul that require expression.
 - hobbies 
+
+
+<br>
+<br>
 
 ## Boundaries 
 
