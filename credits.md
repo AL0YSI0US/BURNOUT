@@ -19,12 +19,12 @@
 > I have always found it negligent that a bold majority of resources cite attatchment stuff as things that come soley from our childhoods. Our attatchment styles show up in every relationship romantic or not and change between partners and relationships/ dynamics and morph as we age, develop and mature.
 
   
- Gotta say a walloping thank you to [Kristina Flynn] Their energy alone challenges me to push my technologichal edges to create accessible content for the masses, ever mindful of my abiility to stimulation and my possible impact on my Neurodivergent community. I try my damndest to regualte myse;f, my content and be real about my struggles when Im in the company of others. I feel a sense of responsibility to model choices people may not otherwise be aware of.  
+ Gotta say a walloping thank you to [Kristina Flynn](https://twitter.com/flynnkristina) Her energy alone challenges me to push my technologichal edges to create accessible content for the masses, ever mindful of my abiility to overstimulate my audience and the possible impact i could have on my Neurodivergent community. I try my damndest to regualte myself, my content and be real about my struggles when Im in the company of others. I feel a sense of responsibility to model choices people may not otherwise be aware of. Many of us are just way too hard on oursleves 
   
   
   Big thanks to Marshall B. Rosenberg, Ph.D. [RIP]  His work with [Nonviolent Communication](https://classroommanagementcem.weebly.com/uploads/4/3/2/5/4325801/nvc_language_of_life_chapters_1-5.pdf) has influenced culture, especially in the social justice realm around consensual dialogue.
   
-  Last but not least, Thank you to the [Aragon](https://twitter.com/AragonDao) community for the platform around mental health and for collaborating with [GravityDAO](https://twitter.com/GravityDAO)!
+  Last but not least, Thank you to the [AragonDAO](https://twitter.com/AragonDao) community for offering a platform around mental health and for collaborating with [GravityDAO](https://twitter.com/GravityDAO)!
  
   
   <br>
