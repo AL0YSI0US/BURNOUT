@@ -25,12 +25,13 @@ They are the keys to our awareness, unlocking the doors to our self sovereignty 
 <br>
 
 ## Balance
-Consider what it looks like to manage your time, energy and attention across the spectrum of your wants and needs. 
+Consider what it looks like to manage your time, energy and attention across the spectrum of your wants, needs and desires. 
 > *What are the things you want to do in order to thrive? and what are the things you need to do in order to survive?*
 - Relationships [romantic/platonic/work/family]
 - Career / Personal Development
 - Hygiene 
-- Nutritioun / Diet - *the food we consume*
+- Rest / Sleep
+- Nutrition / Diet - *the food we consume*
 - Socialozation 
 - Political / Activism expression
 - Housing
@@ -38,8 +39,10 @@ Consider what it looks like to manage your time, energy and attention across the
 - Hobbies / Special interests 
 - Academic
 - Finances
-- Excercize / Movement
+- Excercise / Movement
 - *etc.*
+
+
 
 <br>
 <br>
