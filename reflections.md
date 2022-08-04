@@ -18,6 +18,17 @@ Which River are you today?
   
   <br>
   <br>
+  
+
+  
+  ![](https://miro.medium.com/max/1400/1*tOpnLI8CgTavxdcfXXrCrg.jpeg)
+  <img src="https://user-images.githubusercontent.com/75811965/182894567-1669a06b-0f8e-44f9-9d01-5892dc76a813.png"  width=75% height=75%>
+
+> ⚠️ [*Before Maslow’s Hierarchy: The Whitewashing of Indigenous Knowledge*](https://shanesafir.com/2020/12/before-maslows-hierarchy-the-whitewashing-of-indigenous-knowledge/#:~:text=Maslow's%20hierarchy%20as%20typically%20presented,%2C%20society%2C%20or%20generational%20legacy.) 
+  
+  <br>
+  <br>
+ 
 
   
   
@@ -58,7 +69,22 @@ This poster is part of the continuing effort at Microcosm to create a lasting le
   
   <br>
   <br>
+ 
+  [Common Brain Traps](https://microcosmpublishing.com/catalog/posters/11390) by Joe Biel  
+Cognitive distortions are ways that our mind convinces us of something that isn't true. These irrational thoughts are a common cause of maladaptive coping and toxic behaviors, used to reinforce negative thinking or emotions. We send ourselves bad data and convince ourselves that it's true. Then they keep us feeling bad about ourselves. This poster will help you identify these common brain traps.
+  
+  ![](https://microcosmpublishing.com/previews/commonbraintraps_blowup.jpg)
+ 
+  <br>
+  <br>  
+  
+[What Should I Do Next? ](https://microcosmpublishing.com/catalog/posters/11391) by Joe Biel  
 
+ ![](https://microcosmpublishing.com/previews/howtoprioritize_blowup.jpg)
+  
+  
+  <br>
+  <br>
   
   ### [Scarcity vs Abundance Thinking](https://microcosmpublishing.com/catalog/posters/11392) by Joe Biel  
 Put things into perspective and make sure you're on the right track. <br>
@@ -76,7 +102,10 @@ Recently, an artist friend celebrated a modicum of success after five years of h
 
 Fortunately, the reality is that there is **enough pie to go around** if we don't react like it's a scarcity economy. Our feelings dictate not only how other people interpret our actions but the rewards and response that we receive. There is enough to go around if we realize it and act like it. Put this poster on your wall and start to thrive.
  
-![](htps://microcosmpublishing.com/previews/howtothrivestarveposter_lg.jpg)
+![](https://cdn.discordapp.com/attachments/877846940224741427/1004780147829907557/unknown.png)
+  
+  <br>
+  <br>
   
 ### [Stagnating vs Effective Leadership](https://microcosmpublishing.com/catalog/posters/11394) by Joe Biel  
 Figure out which kind of leader you are (and then, if needed, become the one you want to be)!
