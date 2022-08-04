@@ -51,10 +51,13 @@ Consider what it looks like to manage your time, energy and attention across the
 - Take intentional breaks between activities, in relationships, from work etc. <br>
 We can ruin the things we either enjoy or must do by over saturating ourselves in them.
 
-Trauma manifests from recieving stimuli, be it negative of positive.
+
+Trauma manifests in the act of recieving stimuli, be it negative of positive, a lot or not enough.
 > too much, too fast, too soon, or not enough for too long. 
-- Refrain from scheduling yourself back-to-back anywhere in your day. 👇🏾
+
+- Refrain from scheduling yourself back-to-back anywhere in your day if you can help it. 👇🏾
   - We need time between activities to digest / process / integrate information and to down regulate our nervous systems after recieving ample amounts of stimuli.  
+
 > If you must fill out your day, schedule in time to relax / get grounded and focus on other parts of your soul that require expression.
 - Schedule intentional breaks from everything to ensure spaceousness for needs driven spontenaeity. This could look like carving out a morning / afternoon, taking a day trip or even scheduling multiple day breaks.
 - Take breaks from speaking, try to listen more.
