@@ -1,3 +1,6 @@
+
+[<== Home](README.md) 🏠
+
 <div align=center>
 
   <h1> A L O Y S I O U S </h1>
@@ -12,4 +15,4 @@
 
 </div>
 
-[<== Home](README.md) 🏠 [The 3 B's ==>](threeBs.md)
+[The 3 B's ==>](threeBs.md)
