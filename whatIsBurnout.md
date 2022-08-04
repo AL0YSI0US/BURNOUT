@@ -1,6 +1,6 @@
 # What is B U R N O U T?
 
-Burnout is a state of emotional, physical and mental exhaustioncaused by excessive and prolonged stress. 
+Burnout is a state of emotional, physical and mental exhaustion caused by excessive and prolonged stress. 
 It's feeling emotionally drained, overwhelmed, and unable to meet daily demands and commitments.
 
 ## What are the symptoms?
@@ -24,12 +24,4 @@ It's feeling emotionally drained, overwhelmed, and unable to meet daily demands 
 - Self-doubt or sense of failure
 - Shame dialogue
 
-
-## What are the Five stages of burnout?
-
-1. Ambition & Drive
-2. Stress
-3. Chronic stress
-4. Burnout
-5. Habitual burnout
 
