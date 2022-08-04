@@ -26,5 +26,8 @@ It's feeling emotionally drained, overwhelmed, and unable to meet daily demands 
 - Self-doubt or sense of failure
 - Shame dialogue
 
+<br>
 
- [Differenciating Stress from Burnout ==>](stress.md)
+### [<<== What is Burnout?](needs.md) ||  [Differenciating Stress from Burnout ==>](stress.md)
+
+
