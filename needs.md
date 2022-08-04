@@ -7,7 +7,7 @@ subcategories.
 
 <div align="center">
   
-  <h2> Well Being </h2>
+  <h2> WELL-BEING </h2>
 
     
  
@@ -29,3 +29,42 @@ subcategories.
 |   |   |tranquility|
 |   |   |wholeness|
 |   |   |wonder|
+
+<div align="center">
+  
+<h2> CONNECTION </h2>
+  
+|**Love/Caring**|**Empathy/Understanding**|**Community/Belonging**| 
+|:-:|:-:|:-:| 
+|affection/warmth|   |   |  
+|beauty|   |   |  
+|closeness/touch|   |   |  
+|companionship|   |   |  
+|   |   |   | 
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+  
+  <h2> SELF-EXPRESSION </h2>
+  
+|**Autonomy/Freedom**|**Authenticity**|**Meaning/Contribution**| 
+|:-:|:-:|:-:| 
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   | 
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+|   |   |   |  
+  
+[Source : [From Conflict to Connection Appendix
+](https://www.mediateyourlife.com/wp-content/uploads/2015/10/Needs.pdf)]
