@@ -1,4 +1,3 @@
-
 <div align=center>
 
   <h1> A L O Y S I O U S </h1>
@@ -12,3 +11,5 @@
   @sourcecred @tecmns @ShineDAO_ @powerdada @GovernanceDAO @demoversal 
 
 </div>
+
+[<== Home](README.md) 🏠
