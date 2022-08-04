@@ -15,6 +15,8 @@ Because stress and burnout have similar symptoms It can be difficult to differen
 - Feeling a sense of urgency
 - Can lead to or increase anxiety 
 
+<br>
+
 ### **Burnout**
 - Sense of failure and self-doubt
 - Feeling helpless, trapped and defeated
