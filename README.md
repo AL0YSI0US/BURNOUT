@@ -23,7 +23,7 @@ Because the topic is such a dense subject this resource will guide dialogue and 
 5. [Differenciating Stress from Burnout](stress.md)
 6. [5 Stages of Burnout](5stages.md)
 7. [Images for self reflection]
-8. [❤️ Credits ❤️]()
+8. [❤️ Credits ❤️](credits.md)
 
 
 
