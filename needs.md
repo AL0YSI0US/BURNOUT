@@ -81,6 +81,7 @@ subcategories.
 
 <br>
 
+<div align=center>
 
-###  [<<== Universal Human Needs/Values](needs.md) || [What is Burnout?==>](whatIsBurnout.md)
+  [<<== Universal Human Needs/Values](needs.md) || [What is Burnout?==>](whatIsBurnout.md)
 
