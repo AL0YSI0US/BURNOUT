@@ -32,5 +32,8 @@ Because stress and burnout have similar symptoms It can be difficult to differen
 - Every obstacle, regardless of size may feel like a daunting challenge 
 - Suicidal ideations
 
+
+<div align=center>
+  
 [<== What is Burnout](whatIsBurnout.md)   ||  [5 Stages of Burnout ==>](fivestages.md)
 
