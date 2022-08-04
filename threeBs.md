@@ -25,4 +25,4 @@ We must adopt consent culture within ourselves, this behavior will scale when we
 
 
 
-[<== Home](README.md) 🏠 [What is Burnout ==>](whatisburnout.md)
+[<== Home](README.md) 🏠 [What is Burnout ==>](whatIsBurnout.md)
