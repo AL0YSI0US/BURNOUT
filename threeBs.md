@@ -65,7 +65,7 @@ Trauma manifests from recieving stimuli, be it negative of positive.
 <br>
 
 ## Boundaries 
-
+A boundary is an imaginary line that separates me from you. It separates your physical space, your feelings, needs, and responsibilities from others. Your boundaries also tell other people how they can treat you – what’s acceptable and what isn’t. Without boundaries, people may take advantage of you because you haven’t set limits about how you expect to be treated.  
 
 <br>
 
