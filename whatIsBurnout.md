@@ -1,3 +1,5 @@
+[<== Home](README.md) 🏠
+
 # What is B U R N O U T?
 
 Burnout is a state of emotional, physical and mental exhaustion caused by excessive and prolonged stress. 
@@ -25,4 +27,4 @@ It's feeling emotionally drained, overwhelmed, and unable to meet daily demands 
 - Shame dialogue
 
 
-[<== Home](README.md) 🏠 [Differenciating Stress from Burnout ==>](stress.md)
+ [Differenciating Stress from Burnout ==>](stress.md)
