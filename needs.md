@@ -78,5 +78,4 @@ subcategories.
  </div>
 
 
-### SOURCE
 - [Universal Human Needs/Values](https://www.mediateyourlife.com/wp-content/uploads/2015/10/Needs.pdf) From Conflict to Connection Appendix
