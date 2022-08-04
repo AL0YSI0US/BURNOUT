@@ -50,23 +50,33 @@ subcategories.
 |respect|seeing (see/be seen)|support/solidarity|  
 |honoring|slf-esteem|trust/dependability|  
 |valuing/prizing|sensitivity|transparency/openness|  
+
+</div>
   
   <h2> SELF-EXPRESSION </h2>
   
 |**Autonomy/Freedom**|**Authenticity**|**Meaning/Contribution**| 
 |:-:|:-:|:-:| 
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   | 
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
-|   |   |   |  
+|choice|adventure|appreciation/gratitude|  
+|clarity|aliveness|achievement|  
+|congruence|discovery|*productivity*|  
+|consistency|honesty|celebration/mourning|  
+|continuity|initiative|challenge| 
+|dignity|innovation|efficacy|  
+|freedom|inspiration|effectiveness|  
+|independence|joy|excellence|  
+|integrity|mystery|growth|  
+|power|passion|learning/clarity|  
+|empowerment|spontaneity|mystery|  
+|self-responsibility|   |participation|
+|||purpose/value|
+|||self-actualization|
+|||self-esteem|
+|||skill/mastery|
   
-[Source : [From Conflict to Connection Appendix
-](https://www.mediateyourlife.com/wp-content/uploads/2015/10/Needs.pdf)]
+  
+ </div>
+
+
+### SOURCE
+- [Universal Human Needs/Values](https://www.mediateyourlife.com/wp-content/uploads/2015/10/Needs.pdf) From Conflict to Connection Appendix
