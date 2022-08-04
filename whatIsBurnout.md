@@ -28,6 +28,8 @@ It's feeling emotionally drained, overwhelmed, and unable to meet daily demands 
 
 <br>
 
-### [<<== What is Burnout?](needs.md) ||  [Differenciating Stress from Burnout ==>](stress.md)
+<div align=center>
+
+ [<<== Universal Human Needs/Values](needs.md) ||  [Differenciating Stress from Burnout ==>](stress.md)
 
 
