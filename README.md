@@ -1,4 +1,29 @@
 # BURNOUT
 
+<div align="center">
 
-<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/296999643_745194486717526_697370604936494132_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=rP1uKybYqb8AX-gDyRT&_nc_ht=scontent-sea1-1.xx&oh=03_AVLw38YOEAHtCZMN9Q6ZLahG_inJ8uaMpTSpN-v7xYORkA&oe=63112EBD"  width=50% height=50%>
+<img src="https://bafybeiauomi4lhnssgpqmaf4feurdxnmknsswxgr76573ew3ufokxck35q.ipfs.infura-ipfs.io/"  width=25% height=25%>
+
+🎨 [hipocreate](https://hic.af/hipocreate)
+
+</div>
+
+
+> This repository was created to support the facilitation of a discussion around 'Burnout'...
+Because the topic is such a dense subject this resource will guide dialogue and be provided to atendees to allow for deeper reflection. 
+
+Table of Contents //
+
+1. [Aloysious](aloysious.md) 
+2. [The 3 B's]()
+3. [What is Burnout?](burnout.md)
+4.
+5.
+6.
+7.
+
+
+
+
+
+ 
