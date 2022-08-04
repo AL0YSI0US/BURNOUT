@@ -36,7 +36,7 @@ We can ruin the things we either enjoy or must do by over saturating ourselves i
 
 Trauma manifests from recieving stimuli, be it negative of positive.
 > too much, too fast, too soon, or not enough for too long. 
-- Stop filling your time-slots. 
+- Refrain from scheduling yourself back-to-back anywhere in your day. 👇🏾
   - We need time between activities to digest / process / integrate information and to down regulate our nervous systems after recieving ample amounts of stimuli.  
 > If you must fill out your day, schedule in time to relax / get grounded and focus on other parts of your soul that require expression.
 - hobbies 
