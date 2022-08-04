@@ -1,3 +1,5 @@
+[<== Home](README.md) 🏠
+
 # The 3 B's 
 
 > Balance . Breaks . Boundaries
@@ -25,4 +27,4 @@ We must adopt consent culture within ourselves, this behavior will scale when we
 
 
 
-[<== Home](README.md) 🏠 [What is Burnout ==>](whatIsBurnout.md)
+[What is Burnout ==>](whatIsBurnout.md)
