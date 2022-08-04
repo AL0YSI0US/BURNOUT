@@ -1,23 +1,25 @@
-What are catalysts for burnout?
 
-Perfectionism 
-Overworking
-Low Sel-esteem
-Rejection sensitivity & stron emotions
-Hyperfocus
-Fluctualting energy levels
+# What are some of the possible catalysts for burnout?
+
+- Perfectionism 
+- Overworking
+- Low Self-esteem
+- Rejection sensitivity 
+- Strong emotions
+- Hyperfocus
+- Fluctuating energy levels
 - sleep
 - excercise
 - safety
 - diet
-Embarassment 
-Chasing high standards
-- adulting 
-- punctuality
-- hiding sensitivities
-- keeping everything spotless
-- following hour long []or more] routines
-- making meals from scratch
-- commiting to events we dont want to attend
-- putting others first 
+- Embarassment 
+- Chasing high standards
+- "Adulting" 
+- Punctuality
+- Hiding sensitivities
+- Keeping everything spotless
+- Following hour long [or more] routines
+- Making meals from scratch
+- Commiting to events or social engagements we dont actually want to attend
+- Putting others first 
  
