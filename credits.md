@@ -23,7 +23,10 @@
   Big thanks to Marshall B. Rosenberg, Ph.D. [RIP]  His work with [Nonviolent Communication](https://classroommanagementcem.weebly.com/uploads/4/3/2/5/4325801/nvc_language_of_life_chapters_1-5.pdf) has influenced culture, especially in the social justice realm around consensual dialogue.
   
   Last but not least, Thank you to the [Aragon](https://twitter.com/AragonDao) community for the platform around mental health and for collaborating with [GravityDAO](https://twitter.com/GravityDAO)!
+ 
   
+  <br>
+  <br>
   <div align=center>
     
  
