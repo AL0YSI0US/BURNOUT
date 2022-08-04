@@ -1,3 +1,6 @@
+[<== Home](README.md) 🏠
+
+
 # Helpful images for self reflection / emotional processing
 
 
@@ -20,11 +23,13 @@ Which River are you today?
   <br>
   
 
-  
+  ### Maslov's Hiearchy of Needs (Informed by) Blackfoot Nation (ALTA)
   ![](https://miro.medium.com/max/1400/1*tOpnLI8CgTavxdcfXXrCrg.jpeg)
+  
+  <br>
   <img src="https://user-images.githubusercontent.com/75811965/182894567-1669a06b-0f8e-44f9-9d01-5892dc76a813.png"  width=75% height=75%>
 
-> ⚠️ [*Before Maslow’s Hierarchy: The Whitewashing of Indigenous Knowledge*](https://shanesafir.com/2020/12/before-maslows-hierarchy-the-whitewashing-of-indigenous-knowledge/#:~:text=Maslow's%20hierarchy%20as%20typically%20presented,%2C%20society%2C%20or%20generational%20legacy.) 
+⚠️ [*Before Maslow’s Hierarchy: The Whitewashing of Indigenous Knowledge*](https://shanesafir.com/2020/12/before-maslows-hierarchy-the-whitewashing-of-indigenous-knowledge/#:~:text=Maslow's%20hierarchy%20as%20typically%20presented,%2C%20society%2C%20or%20generational%20legacy.) ⚠️
   
   <br>
   <br>
@@ -70,7 +75,7 @@ This poster is part of the continuing effort at Microcosm to create a lasting le
   <br>
   <br>
  
-  [Common Brain Traps](https://microcosmpublishing.com/catalog/posters/11390) by Joe Biel  
+### [Common Brain Traps](https://microcosmpublishing.com/catalog/posters/11390) by Joe Biel  
 Cognitive distortions are ways that our mind convinces us of something that isn't true. These irrational thoughts are a common cause of maladaptive coping and toxic behaviors, used to reinforce negative thinking or emotions. We send ourselves bad data and convince ourselves that it's true. Then they keep us feeling bad about ourselves. This poster will help you identify these common brain traps.
   
   ![](https://microcosmpublishing.com/previews/commonbraintraps_blowup.jpg)
@@ -78,7 +83,7 @@ Cognitive distortions are ways that our mind convinces us of something that isn'
   <br>
   <br>  
   
-[What Should I Do Next? ](https://microcosmpublishing.com/catalog/posters/11391) by Joe Biel  
+### [What Should I Do Next? ](https://microcosmpublishing.com/catalog/posters/11391) by Joe Biel  
 
  ![](https://microcosmpublishing.com/previews/howtoprioritize_blowup.jpg)
   
@@ -109,6 +114,16 @@ Fortunately, the reality is that there is **enough pie to go around** if we don'
   
 ### [Stagnating vs Effective Leadership](https://microcosmpublishing.com/catalog/posters/11394) by Joe Biel  
 Figure out which kind of leader you are (and then, if needed, become the one you want to be)!
+
   ![](https://microcosmpublishing.com/previews/leadership_lg.jpg)
   
 </div>
+
+<br>
+
+<div align=center>
+  
+
+ [<<== Catalysts for Burnout](catalysts.md) ||  [❤️ Credits ❤️ ==>](credits.md)
+
+  
