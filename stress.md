@@ -13,6 +13,7 @@ Because stress and burnout have similar symptoms It can be difficult to differen
 - Feels like trying to stay afloat
 - Reactive emotions
 - Feeling a sense of urgency
+- Arriving later than desired or missing events all together
 - Can lead to or increase anxiety 
 
 <br>
