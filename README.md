@@ -1,4 +1,4 @@
-# BURNOUT
+# 🔥 B U R N O U T
 
 <div align="center">
 
@@ -12,9 +12,11 @@
 > This repository was created to support the facilitation of a discussion around 'Burnout'...<br>
 Because the topic is such a dense subject this resource will guide dialogue and be provided to atendees to allow for deeper reflection. 
 
-Table of Contents //
+<br>
 
-1. [Aloysious](aloysious.md) 
+### Table of Contents //
+
+1. Who is [Aloysious](aloysious.md)? 
 2. [The 3 B's](threeBs.md)
 3. [Universal Human Needs/Values](https://classroommanagementcem.weebly.com/uploads/4/3/2/5/4325801/nvc_language_of_life_chapters_1-5.pdf)
 4. [What is Burnout?](whatIsBurnout.md)
