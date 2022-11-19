@@ -70,7 +70,7 @@ subcategories.
 |integrity|mystery|growth|  
 |power|passion|learning/clarity|  
 |empowerment|spontaneity|mystery|  
-|self-responsibility|   |participation|
+|self-responsibility|grief|participation|
 |||purpose/value|
 |||self-actualization|
 |||self-esteem|
